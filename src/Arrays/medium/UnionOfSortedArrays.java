@@ -1,4 +1,4 @@
-package Arrays.Easy;
+package Arrays.medium;
 
 import java.lang.reflect.Array;
 import java.util.*;
